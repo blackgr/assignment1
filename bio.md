@@ -2,6 +2,7 @@ interest learning programming
 hobbies football
 Adding more stuff to master file
 Adding stuff again
+This will only be in alt bio
 
 Programming Background
 Favorite 161 program was the library program
